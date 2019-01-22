@@ -1,0 +1,22 @@
+---
+title: 'Homework #1'
+author: "Sam Shifflett; shiffy46"
+output: html_document
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+I consider *data science* to be the study of how an aggregation of data can be leveraged in order to make informed decisions. A good data scienctist not only knows how to use certain tools that data scientists commonly use but also has industry knowledge that can direct him/her to ask the right questions and find the correct answers.
+
+Link to chart is [Here](https://canvasjs.com/php-charts/chart-index-data-label/)
+
+```{r}
+version
+```
+
+```{r}
+git --version
+```
