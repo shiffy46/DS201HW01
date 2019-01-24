@@ -1,0 +1,23 @@
+---
+title: "partner"
+author: "Alex"
+date: "January 24, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+1.) Sam Shifflett , shiffy46
+
+2.) This is the first commit for homework one
+    c26f0293df000db9d28e681c69eb61d302b68d63
+
+3.) For some reason his git command had errors. We did not really need it in our assignment, so I commented it out
+
+4.) Sit down with your team and make sure you have good established git practices and processes set up. Integrate early and often. Make sure you use branches correctly.
+    
+    
